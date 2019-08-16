@@ -12,10 +12,13 @@ Key features of the game:
 - Ability to save game results and move history to SQLite database.
 
 Main menu:
+
 ![alt text](https://imgur.com/WXrMyZi.png)
 
 Main game scene:
+
 ![alt text](https://imgur.com/ShC27sF.png)
 
 Game results menu:
+
 ![alt text](https://imgur.com/IGPj7yd.png)
