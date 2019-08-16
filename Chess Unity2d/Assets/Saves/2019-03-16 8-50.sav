@@ -1,0 +1,996 @@
+��{
+    "gameSetup": 1,
+    "saveDateTime": "03/16/2019 08:50:34",
+    "isBlackTurn": false,
+    "timeFromStartGame": 0.0,
+    "cells": [
+        {
+            "type": "Rook",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 0,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 0,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 0,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 0,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 1,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 1,
+            "y": 2,
+            "isFirstMove": false
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 1,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 2,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 2,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 2,
+            "y": 4,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 2,
+            "y": 5,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 2,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Queen",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 3,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 3,
+            "y": 2,
+            "isFirstMove": false
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 3,
+            "y": 5,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 3,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Queen",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 3,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "King",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 4,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 4,
+            "y": 3,
+            "isFirstMove": false
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 4,
+            "y": 4,
+            "isFirstMove": true
+        },
+        {
+            "type": "King",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 4,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 5,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 5,
+            "y": 2,
+            "isFirstMove": false
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 5,
+            "y": 5,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 5,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 6,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 6,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 6,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 7,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 7,
+            "y": 2,
+            "isFirstMove": false
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 7,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 7,
+            "y": 7,
+            "isFirstMove": true
+        }
+    ],
+    "fen": "r1bqk2r/pp1p1ppp/2nb1n2/2p1p3/4P3/1P1P1P1P/P1P3P1/RNBQKBNR w KQkq - 1 6",
+    "whosMove": 0,
+    "Logs": [
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nf5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nf5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nf5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) e2e3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) e7e6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) c2c3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) c7c5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) a2a4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♟ (Черные Pawn) h7h5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход ♙ (Белые Pawn) g2g3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nf5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок за Белых против Компьютера",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\ne4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (EasyAI)\n♟ (Черные Pawn)\nc5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nd3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (EasyAI)\n♟ (Черные Pawn)\ne5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nf3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (EasyAI)\n♞ (Черные Knight)\nNf6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nb3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (EasyAI)\n♝ (Черные Bishop)\nBd6",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn)\nh3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (EasyAI)\n♞ (Черные Knight)\nNc6",
+            "stackTrace": "",
+            "type": 3
+        }
+    ]
+}

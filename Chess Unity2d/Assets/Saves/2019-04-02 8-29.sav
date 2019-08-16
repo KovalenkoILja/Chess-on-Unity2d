@@ -1,0 +1,386 @@
+�E{
+    "cells": [
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Rook",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 0,
+            "y": 1
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 0,
+            "y": 6
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Rook",
+            "x": 0,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Knight",
+            "x": 1,
+            "y": 0
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 1,
+            "y": 1
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 1,
+            "y": 6
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Knight",
+            "x": 1,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Bishop",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Bishop",
+            "x": 2,
+            "y": 3
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 2,
+            "y": 6
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Bishop",
+            "x": 2,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Knight",
+            "x": 3,
+            "y": 3
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "King",
+            "x": 4,
+            "y": 0
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 4,
+            "y": 3
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "King",
+            "x": 4,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 5,
+            "y": 1
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 5,
+            "y": 4
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Bishop",
+            "x": 5,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 6,
+            "y": 1
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 6,
+            "y": 6
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Knight",
+            "x": 6,
+            "y": 7
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Rook",
+            "x": 7,
+            "y": 0
+        },
+        {
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 7,
+            "y": 1
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Pawn",
+            "x": 7,
+            "y": 6
+        },
+        {
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "type": "Rook",
+            "x": 7,
+            "y": 7
+        }
+    ],
+    "fen": "rnb1kbnr/ppp3pp/8/5p2/2BNP3/8/PP3PPP/RNB1K2R b KQkq - 0 7",
+    "gameSetup": 2,
+    "logs": [
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок за Черных против Компьютера",
+            "stackTrace": "",
+            "type": 2
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♙ (Белые Pawn)\nd4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nd5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♙ (Белые Pawn)\nc4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn) взятие ♟ (Черные Pawn)\ndxc4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♙ (Белые Pawn)\ne4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\ne5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♘ (Белые Knight)\nNf3",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♙ (Белые Pawn) взятие ♟ (Черные Pawn)\nexd4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♟ (Черные Pawn) взятие ♗ (Белые Bishop)\nBxc4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♟ (Черные Pawn)\nf5",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♟ (Черные Pawn) взятие ♕ (Белые Queen)\nQxd4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход Игрока\n♕ (Белые Queen) взятие ♛ (Черные Queen)\nQxd4",
+            "stackTrace": "",
+            "type": 3
+        },
+        {
+            "count": 1,
+            "message": "Ход (MediumAI)\n♛ (Черные Queen) взятие ♘ (Белые Knight)\nNxd4",
+            "stackTrace": "",
+            "type": 3
+        }
+    ],
+    "timeFromStartGame": 0.0,
+    "whoIsMove": 1
+}

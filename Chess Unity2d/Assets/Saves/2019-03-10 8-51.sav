@@ -1,0 +1,408 @@
+�E{
+    "gameSetup": 0,
+    "saveDateTime": "03/10/2019 08:51:33",
+    "isBlackTurn": false,
+    "timeFromStartGame": 0.0,
+    "cells": [
+        {
+            "type": "Rook",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 0,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 0,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 0,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 0,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 1,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 1,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 1,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 1,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 2,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 2,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 2,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 2,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Queen",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 3,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 3,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 3,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Queen",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 3,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "King",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 4,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 4,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 4,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "King",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 4,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 5,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 5,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 5,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Bishop",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 5,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 6,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 6,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 6,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Knight",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 6,
+            "y": 7,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 7,
+            "y": 0,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            },
+            "x": 7,
+            "y": 1,
+            "isFirstMove": true
+        },
+        {
+            "type": "Pawn",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 7,
+            "y": 6,
+            "isFirstMove": true
+        },
+        {
+            "type": "Rook",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            },
+            "x": 7,
+            "y": 7,
+            "isFirstMove": true
+        }
+    ],
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "whosMove": 0,
+    "Logs": [
+        {
+            "count": 1,
+            "message": "Старт",
+            "stackTrace": "",
+            "type": 0
+        },
+        {
+            "count": 1,
+            "message": "Режим игры: Игрок против Игрока",
+            "stackTrace": "",
+            "type": 2
+        }
+    ]
+}
